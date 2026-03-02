@@ -1,1 +1,0 @@
-Enter temperature in Celsius: Fahrenheit = 66.2

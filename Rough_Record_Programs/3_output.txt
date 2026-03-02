@@ -1,4 +1,0 @@
-Before Swapping
-a = 5, b = 10
-Afer Swapping
-a = 10, b = 5
